@@ -1,0 +1,1 @@
+This project will fresh up my memory on HTML. I will likely be using elements such as paragraphs, lists, images, links.
